@@ -10,10 +10,11 @@ greeting='Hello World'
 print(greeting)
 
 ##--python basic
-line01="************"
-line02="*          *"
+line01="************" #header
+line02="*          *" #reuse
 line03="* WELCOME !*"
 
+#start with a blank line
 print('')
 print(line01)
 print(line02)
