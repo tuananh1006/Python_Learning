@@ -16,7 +16,8 @@ line03 = "* WELCOME !*"
 line04 = "***"
 
 
-#
+# ctrl , to open setting
+# press format on type and format on save to adjust
 
 print('')
 print(line01)
